@@ -2,7 +2,8 @@
 16.09.21
 
 
-*asdasdasd    
-    +asdadasdas
-    +asdafsg
+*asdasdasd
+*asdasdasdasd
+    + asdadasdas
+    + asdafsg
         -asdasfaf
